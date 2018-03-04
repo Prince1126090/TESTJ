@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my JSP page. <br>
+    This is my JSP page. :D <br>
     This page is the default page that pops up when we only give poject name in the URL. <br>
     <h1>Please give Start.jsp after the current URL.</h1>
   </body>
